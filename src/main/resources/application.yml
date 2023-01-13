@@ -1,0 +1,6 @@
+customer:
+  url: localhost:8080
+fraud:
+  url: localhost:8081
+notification:
+  url: localhost:8082
